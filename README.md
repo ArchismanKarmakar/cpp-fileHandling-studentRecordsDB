@@ -1,4 +1,4 @@
-# c--fileHandling-studentRecordsDB
+# cpp-fileHandling-studentRecordsDB
 
 /* A menu driven file handling program to 
    Create, read, update and delete records
